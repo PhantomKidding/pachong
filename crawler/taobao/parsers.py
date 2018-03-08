@@ -101,7 +101,7 @@ def parse_itempage(fetcher):
 def parse_comments(fetcher):
     p = fetcher.find('p')
     if not p:
-        raise LookupError(''.format(fetcher.source_code()))
+        raise LookupError
     comments = json.loads(p.text.strip()[27: -1])
     has_next = comments['maxPage'] - comments['currentPageNum']
     chongs = [comment for comment in comments['comments']]

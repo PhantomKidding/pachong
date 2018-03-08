@@ -29,7 +29,7 @@ class Pachong(object):
         self.task = task
         print('Starting task: {}'.format(task))
         while True:
-            samples = self.sample_input(self.batch, self.batch * self.machine)
+            samples = self.sample_input(None, self.batch * self.machine)
             if not samples:
                 break
             with tqdm(samples) as bar:
@@ -70,11 +70,9 @@ class Pachong(object):
     def captcha_handler(self):
         raise LookupError
 
-    def sample_input(self, n_sample, skip):
+    def sample_input(self, n_sample=None, skip=None):
         cursor = self.input_.find_all({'task.{}.status'.format(self.task): {'$nin': ['done', 'progress']}})
-        return list(cursor.skip(skip).limit(n_sample))
-    # def get_input(self):
-    #     return [tar['_id'] for tar in self.input_.find({'done': {'$ne': 1}}, fields=['_id'])]
+        return list(cursor.skip(skip).limit(n_sample)) if n_sample else list(cursor.skip(skip))
 
     @staticmethod
     def utc_now():

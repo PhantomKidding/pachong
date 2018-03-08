@@ -12,10 +12,15 @@ from __future__ import unicode_literals
 from crawler.taobao import Taobao
 from database.mongodb import MongoDB
 from fetcher.selenium import Browser
+import sys
+
+
+args = sys.argv[1:]
+nfile = int(args[0])
 
 fetcher = Browser(proxy='localhost:3128')
 # fetcher = Browser(proxy='13.56.211.230:3128')
-crawler = Taobao('wanghong', 'taobao_items', fetcher=fetcher, Database=MongoDB)
+crawler = Taobao('wanghong', 'taobao_items', fetcher=fetcher, Database=MongoDB).import_input('itemids{}.txt'.format(nfile))
     # .login()
 
 crawler.crawl('itempage')

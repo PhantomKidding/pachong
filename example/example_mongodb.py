@@ -87,3 +87,13 @@ db = client[MONGO_DB]
 db['test'].insert({'a': 'haha'})
 
 server.stop()
+
+
+db = MongoDB('wanghong', 'taobao_items')
+ids = [doc['_id'] for doc in db.find_all({'task.itempage.status': {'$ne': 'done'}})]
+ids = ids[-10000:]
+
+for x in range(10000):
+    if x % 1000 == 0:
+        f = open('itemids{}.txt'.format(x/1000), 'w')
+    f.write(ids[x] + '\n')

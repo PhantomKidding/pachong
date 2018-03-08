@@ -16,8 +16,8 @@ project = 'wanghong'
 # project = 'test'
 # input_ = 'users'
 input_ = 'taobaodianzhu'
-fetcher = Requests(proxy="localhost:3128")
-
+# fetcher = Requests(proxy="localhost:3128")
+fetcher = Requests()
 crawler = Weibo(project, input_, fetcher=fetcher, Database=MongoDB) \
     .login('0012028475117', 'Cc19900201')
     # .import_input(input_list=['1866833821'], update=True)
