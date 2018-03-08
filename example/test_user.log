@@ -1,0 +1,21 @@
+2018-02-16 14:02:37 Starting new HTTP connection (1): s.weibo.com
+2018-02-16 14:02:38 Starting new HTTP connection (1): login.sina.com.cn
+2018-02-16 14:02:39 Resetting dropped connection: login.sina.com.cn
+2018-02-16 14:02:40 Starting new HTTP connection (1): weibo.com
+2018-02-16 14:02:41 Starting new HTTPS connection (1): weibo.com
+2018-02-16 14:06:46 Starting new HTTP connection (1): s.weibo.com
+2018-02-16 14:06:47 Starting new HTTP connection (1): login.sina.com.cn
+2018-02-16 14:06:48 Resetting dropped connection: login.sina.com.cn
+2018-02-16 14:06:50 Starting new HTTP connection (1): weibo.com
+2018-02-16 14:06:50 Starting new HTTPS connection (1): weibo.com
+2018-02-16 14:07:04 Resetting dropped connection: weibo.com
+2018-02-16 14:07:08 Resetting dropped connection: weibo.com
+2018-02-16 14:07:15 Resetting dropped connection: weibo.com
+2018-02-16 14:07:19 Resetting dropped connection: weibo.com
+2018-02-16 14:09:34 Starting new HTTP connection (1): s.weibo.com
+2018-02-16 14:09:35 Starting new HTTP connection (1): login.sina.com.cn
+2018-02-16 14:09:36 Resetting dropped connection: login.sina.com.cn
+2018-02-16 14:09:37 Starting new HTTP connection (1): weibo.com
+2018-02-16 14:09:38 Starting new HTTPS connection (1): weibo.com
+2018-02-16 14:09:47 Resetting dropped connection: weibo.com
+2018-02-16 14:09:51 Resetting dropped connection: weibo.com

@@ -1,0 +1,582 @@
+2018-03-01 14:07:15 Starting new HTTPS connection (1): tistis.taobao.com
+2018-03-01 14:07:16 Starting new HTTP connection (1): tistis.world.taobao.com
+2018-03-01 14:07:17 Starting new HTTPS connection (1): tistis.world.taobao.com
+2018-03-01 14:07:18 Starting new HTTPS connection (1): store.taobao.com
+2018-03-01 14:07:20 Starting new HTTPS connection (1): william.taobao.com
+2018-03-01 14:07:22 Starting new HTTP connection (1): william.world.taobao.com
+2018-03-01 14:07:22 Starting new HTTPS connection (1): william.world.taobao.com
+2018-03-01 14:07:24 [DATABASE]: 1731369363 is done.
+2018-03-01 14:07:24 Starting new HTTPS connection (1): inchcho.taobao.com
+2018-03-01 14:07:26 Starting new HTTP connection (1): inchcho.world.taobao.com
+2018-03-01 14:07:26 Starting new HTTPS connection (1): inchcho.world.taobao.com
+2018-03-01 14:07:31 [DATABASE]: 1771898584 is done.
+2018-03-01 14:07:31 Starting new HTTPS connection (1): 116891615.taobao.com
+2018-03-01 14:08:05 Starting new HTTPS connection (1): scorp.taobao.com
+2018-03-01 14:08:07 Starting new HTTP connection (1): scorp.world.taobao.com
+2018-03-01 14:08:08 Starting new HTTPS connection (1): scorp.world.taobao.com
+2018-03-01 14:08:11 Starting new HTTPS connection (1): store.taobao.com
+2018-03-01 14:08:12 Starting new HTTPS connection (1): lidbi.taobao.com
+2018-03-01 14:08:15 Starting new HTTP connection (1): lidbi.world.taobao.com
+2018-03-01 14:08:15 Starting new HTTPS connection (1): lidbi.world.taobao.com
+2018-03-01 14:08:17 [DATABASE]: 1233545854 is done.
+2018-03-01 14:08:17 Starting new HTTPS connection (1): shop102794033.taobao.com
+2018-03-01 14:08:19 Starting new HTTP connection (1): shop102794033.world.taobao.com
+2018-03-01 14:08:20 Starting new HTTPS connection (1): shop102794033.world.taobao.com
+2018-03-01 14:08:22 [DATABASE]: 6358297763 is done.
+2018-03-01 14:08:22 Starting new HTTPS connection (1): shop65520084.taobao.com
+2018-03-01 14:08:24 Starting new HTTP connection (1): shop65520084.world.taobao.com
+2018-03-01 14:08:25 Starting new HTTPS connection (1): shop65520084.world.taobao.com
+2018-03-01 14:08:27 [DATABASE]: 5451487764 is done.
+2018-03-01 14:08:27 Starting new HTTPS connection (1): shop114107749.taobao.com
+2018-03-01 14:08:29 Starting new HTTP connection (1): shop114107749.world.taobao.com
+2018-03-01 14:08:30 Starting new HTTPS connection (1): shop114107749.world.taobao.com
+2018-03-01 14:08:32 [DATABASE]: 1726735172 is done.
+2018-03-01 14:08:32 Starting new HTTPS connection (1): winzwinz.taobao.com
+2018-03-01 14:08:34 Starting new HTTP connection (1): winzwinz.world.taobao.com
+2018-03-01 14:08:35 Starting new HTTPS connection (1): winzwinz.world.taobao.com
+2018-03-01 14:08:37 [DATABASE]: 1833703985 is done.
+2018-03-01 14:08:37 Starting new HTTPS connection (1): oyeii.taobao.com
+2018-03-01 14:08:38 Starting new HTTP connection (1): oyeii.world.taobao.com
+2018-03-01 14:08:39 Starting new HTTPS connection (1): oyeii.world.taobao.com
+2018-03-01 14:08:41 [DATABASE]: 5975229853 is done.
+2018-03-01 14:08:41 Starting new HTTPS connection (1): momoko910.taobao.com
+2018-03-01 14:08:43 Starting new HTTP connection (1): momoko910.world.taobao.com
+2018-03-01 14:08:44 Starting new HTTPS connection (1): momoko910.world.taobao.com
+2018-03-01 14:08:45 Starting new HTTPS connection (1): store.taobao.com
+2018-03-01 14:08:47 Starting new HTTPS connection (1): shop63720597.taobao.com
+2018-03-01 14:08:48 Starting new HTTP connection (1): shop63720597.world.taobao.com
+2018-03-01 14:08:50 Starting new HTTPS connection (1): shop63720597.world.taobao.com
+2018-03-01 14:08:53 [DATABASE]: 2607530985 is done.
+2018-03-01 14:08:53 Starting new HTTPS connection (1): lovesweethouse.taobao.com
+2018-03-01 14:08:54 Starting new HTTP connection (1): lovesweethouse.world.taobao.com
+2018-03-01 14:08:55 Starting new HTTPS connection (1): lovesweethouse.world.taobao.com
+2018-03-01 14:08:57 Starting new HTTPS connection (1): chekyads.taobao.com
+2018-03-01 14:08:58 Starting new HTTP connection (1): chekyads.world.taobao.com
+2018-03-01 14:08:59 Starting new HTTPS connection (1): chekyads.world.taobao.com
+2018-03-01 14:09:01 [DATABASE]: 1826764855 is done.
+2018-03-01 14:09:01 Starting new HTTPS connection (1): shop106570316.taobao.com
+2018-03-01 14:09:03 Starting new HTTP connection (1): shop106570316.world.taobao.com
+2018-03-01 14:09:04 Starting new HTTPS connection (1): shop106570316.world.taobao.com
+2018-03-01 14:09:06 [DATABASE]: 2240435757 is done.
+2018-03-01 14:09:06 Starting new HTTPS connection (1): sugargirl.taobao.com
+2018-03-01 14:09:08 Starting new HTTP connection (1): sugargirl.world.taobao.com
+2018-03-01 14:09:09 Starting new HTTPS connection (1): sugargirl.world.taobao.com
+2018-03-01 14:09:11 [DATABASE]: 5662733091 is done.
+2018-03-01 14:09:12 Starting new HTTPS connection (1): jfstudio.taobao.com
+2018-03-01 14:09:13 Starting new HTTP connection (1): jfstudio.world.taobao.com
+2018-03-01 14:09:14 Starting new HTTPS connection (1): jfstudio.world.taobao.com
+2018-03-01 14:09:16 [DATABASE]: 2566142075 is done.
+2018-03-01 14:09:16 Starting new HTTPS connection (1): missruan.taobao.com
+2018-03-01 14:09:18 Starting new HTTP connection (1): missruan.world.taobao.com
+2018-03-01 14:09:18 Starting new HTTPS connection (1): missruan.world.taobao.com
+2018-03-01 14:09:22 [DATABASE]: 1730504237 is done.
+2018-03-01 14:09:22 Starting new HTTPS connection (1): hjh918.taobao.com
+2018-03-01 14:09:23 Starting new HTTP connection (1): hjh918.world.taobao.com
+2018-03-01 14:09:25 Starting new HTTPS connection (1): hjh918.world.taobao.com
+2018-03-01 14:09:27 Starting new HTTPS connection (1): store.taobao.com
+2018-03-01 14:09:28 Starting new HTTPS connection (1): xiguadawang.taobao.com
+2018-03-01 14:09:29 Starting new HTTP connection (1): xiguadawang.world.taobao.com
+2018-03-01 14:09:30 Starting new HTTPS connection (1): xiguadawang.world.taobao.com
+2018-03-01 14:09:32 [DATABASE]: 2257583727 is done.
+2018-03-01 14:09:32 Starting new HTTPS connection (1): shop58929025.taobao.com
+2018-03-01 14:09:33 Starting new HTTP connection (1): shop58929025.world.taobao.com
+2018-03-01 14:09:35 Starting new HTTPS connection (1): shop58929025.world.taobao.com
+2018-03-01 14:09:38 [DATABASE]: 2851177277 is done.
+2018-03-01 14:09:38 Starting new HTTPS connection (1): xinke5013.taobao.com
+2018-03-01 14:09:39 Starting new HTTP connection (1): xinke5013.world.taobao.com
+2018-03-01 14:09:40 Starting new HTTPS connection (1): xinke5013.world.taobao.com
+2018-03-01 14:09:44 [DATABASE]: 1900296053 is done.
+2018-03-01 14:09:44 Starting new HTTPS connection (1): esca-acc.taobao.com
+2018-03-01 14:09:45 Starting new HTTP connection (1): esca-acc.world.taobao.com
+2018-03-01 14:09:46 Starting new HTTPS connection (1): esca-acc.world.taobao.com
+2018-03-01 14:09:49 [DATABASE]: 1745933991 is done.
+2018-03-01 14:09:50 Starting new HTTPS connection (1): qijiuyilu.taobao.com
+2018-03-01 14:09:51 Starting new HTTP connection (1): qijiuyilu.world.taobao.com
+2018-03-01 14:09:52 Starting new HTTPS connection (1): qijiuyilu.world.taobao.com
+2018-03-01 14:09:55 [DATABASE]: 5140433254 is done.
+2018-03-01 14:09:55 Starting new HTTPS connection (1): tkstyle.taobao.com
+2018-03-01 14:09:57 Starting new HTTP connection (1): tkstyle.world.taobao.com
+2018-03-01 14:09:57 Starting new HTTPS connection (1): tkstyle.world.taobao.com
+2018-03-01 14:10:00 [DATABASE]: 1769340624 is done.
+2018-03-01 14:10:00 Starting new HTTPS connection (1): supermianmian.taobao.com
+2018-03-01 14:10:01 Starting new HTTP connection (1): supermianmian.world.taobao.com
+2018-03-01 14:10:02 Starting new HTTPS connection (1): supermianmian.world.taobao.com
+2018-03-01 14:10:04 [DATABASE]: 1772501155 is done.
+2018-03-01 14:10:04 Starting new HTTPS connection (1): uraphen.taobao.com
+2018-03-01 14:10:05 Starting new HTTP connection (1): uraphen.world.taobao.com
+2018-03-01 14:10:06 Starting new HTTPS connection (1): uraphen.world.taobao.com
+2018-03-01 14:10:09 [DATABASE]: 1888782704 is done.
+2018-03-01 14:10:09 Starting new HTTPS connection (1): xiaotianonly.taobao.com
+2018-03-01 14:10:10 Starting new HTTP connection (1): xiaotianonly.world.taobao.com
+2018-03-01 14:10:11 Starting new HTTPS connection (1): xiaotianonly.world.taobao.com
+2018-03-01 14:10:13 [DATABASE]: 3557155505 is done.
+2018-03-01 14:10:13 Starting new HTTPS connection (1): rnscrew.taobao.com
+2018-03-01 14:10:14 Starting new HTTP connection (1): rnscrew.world.taobao.com
+2018-03-01 14:10:15 Starting new HTTPS connection (1): rnscrew.world.taobao.com
+2018-03-01 14:10:17 [DATABASE]: 1572369487 is done.
+2018-03-01 14:10:17 Starting new HTTPS connection (1): shop106183499.taobao.com
+2018-03-01 14:10:19 Starting new HTTP connection (1): shop106183499.world.taobao.com
+2018-03-01 14:10:20 Starting new HTTPS connection (1): shop106183499.world.taobao.com
+2018-03-01 14:10:21 Starting new HTTPS connection (1): store.taobao.com
+2018-03-01 14:10:23 Starting new HTTPS connection (1): dan2babe.taobao.com
+2018-03-01 14:10:24 Starting new HTTP connection (1): dan2babe.world.taobao.com
+2018-03-01 14:10:25 Starting new HTTPS connection (1): dan2babe.world.taobao.com
+2018-03-01 14:10:28 Starting new HTTPS connection (1): tudio.taobao.com
+2018-03-01 14:10:29 Starting new HTTP connection (1): tudio.world.taobao.com
+2018-03-01 14:10:30 Starting new HTTPS connection (1): tudio.world.taobao.com
+2018-03-01 14:10:33 Starting new HTTPS connection (1): dyzz666.taobao.com
+2018-03-01 14:10:34 Starting new HTTP connection (1): dyzz666.world.taobao.com
+2018-03-01 14:10:35 Starting new HTTPS connection (1): dyzz666.world.taobao.com
+2018-03-01 14:10:37 [DATABASE]: 1900933107 is done.
+2018-03-01 14:10:37 Starting new HTTPS connection (1): cil-ee.taobao.com
+2018-03-01 14:10:39 Starting new HTTP connection (1): cil-ee.world.taobao.com
+2018-03-01 14:10:39 Starting new HTTPS connection (1): cil-ee.world.taobao.com
+2018-03-01 14:10:42 [DATABASE]: 1802434564 is done.
+2018-03-01 14:10:42 Starting new HTTPS connection (1): coco-fur.taobao.com
+2018-03-01 14:10:44 Starting new HTTP connection (1): coco-fur.world.taobao.com
+2018-03-01 14:10:45 Starting new HTTPS connection (1): coco-fur.world.taobao.com
+2018-03-01 14:10:47 [DATABASE]: 5623515861 is done.
+2018-03-01 14:10:47 Starting new HTTPS connection (1): shop376937286.taobao.com
+2018-03-01 14:10:49 Starting new HTTP connection (1): shop376937286.world.taobao.com
+2018-03-01 14:10:50 Starting new HTTPS connection (1): shop376937286.world.taobao.com
+2018-03-01 14:10:52 [DATABASE]: 5719114540 is done.
+2018-03-01 14:10:52 Starting new HTTPS connection (1): novembers.taobao.com
+2018-03-01 14:10:53 Starting new HTTP connection (1): novembers.world.taobao.com
+2018-03-01 14:10:54 Starting new HTTPS connection (1): novembers.world.taobao.com
+2018-03-01 14:10:56 [DATABASE]: 2013775722 is done.
+2018-03-01 14:10:56 Starting new HTTPS connection (1): mozebook.taobao.com
+2018-03-01 14:10:58 Starting new HTTP connection (1): mozebook.world.taobao.com
+2018-03-01 14:10:58 Starting new HTTPS connection (1): mozebook.world.taobao.com
+2018-03-01 14:11:00 [DATABASE]: 1410800300 is done.
+2018-03-01 14:11:00 Starting new HTTPS connection (1): darongxiaopu.taobao.com
+2018-03-01 14:11:02 Starting new HTTP connection (1): darongxiaopu.world.taobao.com
+2018-03-01 14:11:03 Starting new HTTPS connection (1): darongxiaopu.world.taobao.com
+2018-03-01 14:11:05 [DATABASE]: 1797903103 is done.
+2018-03-01 14:11:06 Starting new HTTPS connection (1): ttb15.taobao.com
+2018-03-01 14:11:08 Starting new HTTP connection (1): ttb15.world.taobao.com
+2018-03-01 14:11:09 Starting new HTTPS connection (1): ttb15.world.taobao.com
+2018-03-01 14:11:11 [DATABASE]: 1752174247 is done.
+2018-03-01 14:11:11 Starting new HTTPS connection (1): vcruanruanvc.taobao.com
+2018-03-01 14:11:13 Starting new HTTP connection (1): vcruanruanvc.world.taobao.com
+2018-03-01 14:11:14 Starting new HTTPS connection (1): vcruanruanvc.world.taobao.com
+2018-03-01 14:11:16 [DATABASE]: 1746841372 is done.
+2018-03-01 14:11:16 Starting new HTTPS connection (1): twin-mod.taobao.com
+2018-03-01 14:11:18 Starting new HTTP connection (1): twin-mod.world.taobao.com
+2018-03-01 14:11:19 Starting new HTTPS connection (1): twin-mod.world.taobao.com
+2018-03-01 14:11:21 [DATABASE]: 1811566023 is done.
+2018-03-01 14:11:21 Starting new HTTPS connection (1): yiweiman52.taobao.com
+2018-03-01 14:11:22 Starting new HTTP connection (1): yiweiman52.world.taobao.com
+2018-03-01 14:11:23 Starting new HTTPS connection (1): yiweiman52.world.taobao.com
+2018-03-01 14:11:26 [DATABASE]: 1964196145 is done.
+2018-03-01 14:11:26 Starting new HTTPS connection (1): jloveyou.taobao.com
+2018-03-01 14:11:30 Starting new HTTP connection (1): jloveyou.world.taobao.com
+2018-03-01 14:11:30 Starting new HTTPS connection (1): jloveyou.world.taobao.com
+2018-03-01 14:11:33 [DATABASE]: 1729675585 is done.
+2018-03-01 14:11:33 Starting new HTTPS connection (1): gracechow.taobao.com
+2018-03-01 14:11:35 Starting new HTTP connection (1): gracechow.world.taobao.com
+2018-03-01 14:11:36 Starting new HTTPS connection (1): gracechow.world.taobao.com
+2018-03-01 14:11:39 [DATABASE]: 1749783560 is done.
+2018-03-01 14:11:39 Starting new HTTPS connection (1): liviastudio.taobao.com
+2018-03-01 14:11:41 Starting new HTTP connection (1): liviastudio.world.taobao.com
+2018-03-01 14:11:42 Starting new HTTPS connection (1): liviastudio.world.taobao.com
+2018-03-01 14:11:43 Starting new HTTPS connection (1): store.taobao.com
+2018-03-01 14:11:44 Starting new HTTPS connection (1): shop60550101.taobao.com
+2018-03-01 14:11:46 Starting new HTTP connection (1): shop60550101.world.taobao.com
+2018-03-01 14:11:47 Starting new HTTPS connection (1): shop60550101.world.taobao.com
+2018-03-01 14:11:49 [DATABASE]: 2150885120 is done.
+2018-03-01 14:11:49 Starting new HTTPS connection (1): raykid.taobao.com
+2018-03-01 14:11:50 Starting new HTTP connection (1): raykid.world.taobao.com
+2018-03-01 14:11:51 Starting new HTTPS connection (1): raykid.world.taobao.com
+2018-03-01 14:11:59 [DATABASE]: 1954495521 is done.
+2018-03-01 14:11:59 Starting new HTTPS connection (1): samsss.taobao.com
+2018-03-01 14:12:01 Starting new HTTP connection (1): samsss.world.taobao.com
+2018-03-01 14:12:03 Starting new HTTPS connection (1): samsss.world.taobao.com
+2018-03-01 14:12:06 [DATABASE]: 5834071016 is done.
+2018-03-01 14:12:06 Starting new HTTPS connection (1): yy20.taobao.com
+2018-03-01 14:12:08 Starting new HTTP connection (1): yy20.world.taobao.com
+2018-03-01 14:12:09 Starting new HTTPS connection (1): yy20.world.taobao.com
+2018-03-01 14:12:10 [DATABASE]: 1729924375 is done.
+2018-03-01 14:12:10 Starting new HTTPS connection (1): shop418611266.taobao.com
+2018-03-01 14:12:13 Starting new HTTP connection (1): shop418611266.world.taobao.com
+2018-03-01 14:12:14 Starting new HTTPS connection (1): shop418611266.world.taobao.com
+2018-03-01 14:12:16 [DATABASE]: 1818719652 is done.
+2018-03-01 14:12:16 Starting new HTTPS connection (1): shop73258446.taobao.com
+2018-03-01 14:12:18 Starting new HTTP connection (1): shop73258446.world.taobao.com
+2018-03-01 14:12:20 Starting new HTTPS connection (1): shop73258446.world.taobao.com
+2018-03-01 14:12:23 [DATABASE]: 6097841202 is done.
+2018-03-01 14:12:23 Starting new HTTPS connection (1): yeyi520.taobao.com
+2018-03-01 14:12:24 Starting new HTTP connection (1): yeyi520.world.taobao.com
+2018-03-01 14:12:25 Starting new HTTPS connection (1): yeyi520.world.taobao.com
+2018-03-01 14:12:28 [DATABASE]: 1661649494 is done.
+2018-03-01 14:12:28 Starting new HTTPS connection (1): town33.taobao.com
+2018-03-01 14:12:29 Starting new HTTP connection (1): town33.world.taobao.com
+2018-03-01 14:12:30 Starting new HTTPS connection (1): town33.world.taobao.com
+2018-03-01 14:12:32 [DATABASE]: 1741872212 is done.
+2018-03-01 14:12:32 Starting new HTTPS connection (1): linlinjia2014.taobao.com
+2018-03-01 14:12:34 Starting new HTTP connection (1): linlinjia2014.world.taobao.com
+2018-03-01 14:12:37 Starting new HTTPS connection (1): linlinjia2014.world.taobao.com
+2018-03-01 14:12:41 [DATABASE]: 2662315713 is done.
+2018-03-01 14:12:41 Starting new HTTPS connection (1): chili-studio.taobao.com
+2018-03-01 14:12:43 Starting new HTTP connection (1): chili-studio.world.taobao.com
+2018-03-01 14:12:44 Starting new HTTPS connection (1): chili-studio.world.taobao.com
+2018-03-01 14:12:46 [DATABASE]: 2343178055 is done.
+2018-03-01 14:12:46 Starting new HTTPS connection (1): pinziko.taobao.com
+2018-03-01 14:12:48 Starting new HTTP connection (1): pinziko.world.taobao.com
+2018-03-01 14:12:49 Starting new HTTPS connection (1): pinziko.world.taobao.com
+2018-03-01 14:12:51 [DATABASE]: 1798667560 is done.
+2018-03-01 14:12:51 Starting new HTTPS connection (1): naguagu.taobao.com
+2018-03-01 14:12:53 Starting new HTTP connection (1): naguagu.world.taobao.com
+2018-03-01 14:12:54 Starting new HTTPS connection (1): naguagu.world.taobao.com
+2018-03-01 14:12:56 [DATABASE]: 1697313320 is done.
+2018-03-01 14:12:56 Starting new HTTPS connection (1): next-in-fashion.taobao.com
+2018-03-01 14:12:58 Starting new HTTP connection (1): next-in-fashion.world.taobao.com
+2018-03-01 14:12:59 Starting new HTTPS connection (1): next-in-fashion.world.taobao.com
+2018-03-01 14:13:01 [DATABASE]: 1739545810 is done.
+2018-03-01 14:13:01 Starting new HTTPS connection (1): mycands.taobao.com
+2018-03-01 14:13:03 Starting new HTTP connection (1): mycands.world.taobao.com
+2018-03-01 14:13:04 Starting new HTTPS connection (1): mycands.world.taobao.com
+2018-03-01 14:13:06 [DATABASE]: 2360678242 is done.
+2018-03-01 14:13:06 Starting new HTTPS connection (1): cherrycat.taobao.com
+2018-03-01 14:13:08 Starting new HTTP connection (1): cherrycat.world.taobao.com
+2018-03-01 14:13:09 Starting new HTTPS connection (1): cherrycat.world.taobao.com
+2018-03-01 14:13:11 [DATABASE]: 1744354003 is done.
+2018-03-01 14:13:11 Starting new HTTPS connection (1): momocat.taobao.com
+2018-03-01 14:13:13 Starting new HTTP connection (1): momocat.world.taobao.com
+2018-03-01 14:13:14 Starting new HTTPS connection (1): momocat.world.taobao.com
+2018-03-01 14:13:16 [DATABASE]: 1827674307 is done.
+2018-03-01 14:13:16 Starting new HTTPS connection (1): xiaoyujiang1.taobao.com
+2018-03-01 14:13:18 Starting new HTTP connection (1): xiaoyujiang1.world.taobao.com
+2018-03-01 14:13:19 Starting new HTTPS connection (1): xiaoyujiang1.world.taobao.com
+2018-03-01 14:13:21 [DATABASE]: 2008714093 is done.
+2018-03-01 14:13:21 Starting new HTTPS connection (1): cellchok.taobao.com
+2018-03-01 14:13:23 Starting new HTTP connection (1): cellchok.world.taobao.com
+2018-03-01 14:13:24 Starting new HTTPS connection (1): cellchok.world.taobao.com
+2018-03-01 14:13:26 [DATABASE]: 1743930203 is done.
+2018-03-01 14:13:26 Starting new HTTPS connection (1): lattexiaojie.taobao.com
+2018-03-01 14:13:28 Starting new HTTP connection (1): lattexiaojie.world.taobao.com
+2018-03-01 14:13:28 Starting new HTTPS connection (1): lattexiaojie.world.taobao.com
+2018-03-01 14:13:31 [DATABASE]: 2837991212 is done.
+2018-03-01 14:13:31 Starting new HTTPS connection (1): mianyanger.taobao.com
+2018-03-01 14:13:33 Starting new HTTP connection (1): mianyanger.world.taobao.com
+2018-03-01 14:13:34 Starting new HTTPS connection (1): mianyanger.world.taobao.com
+2018-03-01 14:13:36 [DATABASE]: 1757972997 is done.
+2018-03-01 14:13:36 Starting new HTTPS connection (1): hotdogblack.taobao.com
+2018-03-01 14:13:37 Starting new HTTP connection (1): hotdogblack.world.taobao.com
+2018-03-01 14:13:38 Starting new HTTPS connection (1): hotdogblack.world.taobao.com
+2018-03-01 14:13:40 [DATABASE]: 1866231260 is done.
+2018-03-01 14:13:40 Starting new HTTPS connection (1): miss-albeebabe.taobao.com
+2018-03-01 14:13:42 Starting new HTTP connection (1): miss-albeebabe.world.taobao.com
+2018-03-01 14:13:43 Starting new HTTPS connection (1): miss-albeebabe.world.taobao.com
+2018-03-01 14:13:45 [DATABASE]: 1750412851 is done.
+2018-03-01 14:13:46 Starting new HTTPS connection (1): biaoge333.taobao.com
+2018-03-01 14:13:47 Starting new HTTP connection (1): biaoge333.world.taobao.com
+2018-03-01 14:13:48 Starting new HTTPS connection (1): biaoge333.world.taobao.com
+2018-03-01 14:13:50 [DATABASE]: 1795859045 is done.
+2018-03-01 14:13:50 Starting new HTTPS connection (1): too-toostudio.taobao.com
+2018-03-01 14:13:52 Starting new HTTP connection (1): too-toostudio.world.taobao.com
+2018-03-01 14:13:53 Starting new HTTPS connection (1): too-toostudio.world.taobao.com
+2018-03-01 14:13:56 [DATABASE]: 5766435765 is done.
+2018-03-01 14:13:56 Starting new HTTPS connection (1): unihome.taobao.com
+2018-03-01 14:13:58 Starting new HTTP connection (1): unihome.world.taobao.com
+2018-03-01 14:13:58 Starting new HTTPS connection (1): unihome.world.taobao.com
+2018-03-01 14:14:00 [DATABASE]: 2058670431 is done.
+2018-03-01 14:14:00 Starting new HTTPS connection (1): ayukostudio.taobao.com
+2018-03-01 14:14:02 Starting new HTTP connection (1): ayukostudio.world.taobao.com
+2018-03-01 14:14:03 Starting new HTTPS connection (1): ayukostudio.world.taobao.com
+2018-03-01 14:14:05 [DATABASE]: 1756788837 is done.
+2018-03-01 14:14:05 Starting new HTTPS connection (1): shop115499957.taobao.com
+2018-03-01 14:14:07 Starting new HTTP connection (1): shop115499957.world.taobao.com
+2018-03-01 14:14:08 Starting new HTTPS connection (1): shop115499957.world.taobao.com
+2018-03-01 14:14:09 [DATABASE]: 5051419183 is done.
+2018-03-01 14:14:10 Starting new HTTPS connection (1): una-and-yona.taobao.com
+2018-03-01 14:14:11 Starting new HTTP connection (1): una-and-yona.world.taobao.com
+2018-03-01 14:14:12 Starting new HTTPS connection (1): una-and-yona.world.taobao.com
+2018-03-01 14:14:17 [DATABASE]: 1760821184 is done.
+2018-03-01 14:14:17 Starting new HTTPS connection (1): shop112445547.taobao.com
+2018-03-01 14:14:19 Starting new HTTP connection (1): shop112445547.world.taobao.com
+2018-03-01 14:14:20 Starting new HTTPS connection (1): shop112445547.world.taobao.com
+2018-03-01 14:14:22 [DATABASE]: 5706775415 is done.
+2018-03-01 14:14:22 Starting new HTTPS connection (1): huazi99.taobao.com
+2018-03-01 14:14:23 Starting new HTTP connection (1): huazi99.world.taobao.com
+2018-03-01 14:14:24 Starting new HTTPS connection (1): huazi99.world.taobao.com
+2018-03-01 14:14:28 [DATABASE]: 6079958492 is done.
+2018-03-01 14:14:28 Starting new HTTPS connection (1): shop439397239.taobao.com
+2018-03-01 14:14:30 Starting new HTTP connection (1): shop439397239.world.taobao.com
+2018-03-01 14:14:31 Starting new HTTPS connection (1): shop439397239.world.taobao.com
+2018-03-01 14:14:32 Starting new HTTPS connection (1): store.taobao.com
+2018-03-01 14:14:34 Starting new HTTPS connection (1): suoduoduochaopu.taobao.com
+2018-03-01 14:14:35 Starting new HTTP connection (1): suoduoduochaopu.world.taobao.com
+2018-03-01 14:14:36 Starting new HTTPS connection (1): suoduoduochaopu.world.taobao.com
+2018-03-01 14:14:38 [DATABASE]: 1769990644 is done.
+2018-03-01 14:14:38 Starting new HTTPS connection (1): item.taobao.com
+2018-03-01 14:14:40 Starting new HTTPS connection (1): shop59032404.taobao.com
+2018-03-01 14:14:41 Starting new HTTP connection (1): shop59032404.world.taobao.com
+2018-03-01 14:14:43 Starting new HTTPS connection (1): shop59032404.world.taobao.com
+2018-03-01 14:14:48 [DATABASE]: 6403389093 is done.
+2018-03-01 14:14:48 Starting new HTTPS connection (1): evilbabyyyyy.taobao.com
+2018-03-01 14:14:49 Starting new HTTP connection (1): evilbabyyyyy.world.taobao.com
+2018-03-01 14:14:50 Starting new HTTPS connection (1): evilbabyyyyy.world.taobao.com
+2018-03-01 14:14:52 Starting new HTTPS connection (1): leoshizizuo.taobao.com
+2018-03-01 14:14:54 Starting new HTTP connection (1): leoshizizuo.world.taobao.com
+2018-03-01 14:14:54 Starting new HTTPS connection (1): leoshizizuo.world.taobao.com
+2018-03-01 14:14:56 [DATABASE]: 1822752595 is done.
+2018-03-01 14:14:56 Starting new HTTPS connection (1): jieziji.taobao.com
+2018-03-01 14:14:58 Starting new HTTP connection (1): jieziji.world.taobao.com
+2018-03-01 14:14:59 Starting new HTTPS connection (1): jieziji.world.taobao.com
+2018-03-01 14:15:01 [DATABASE]: 2805468830 is done.
+2018-03-01 14:15:01 Starting new HTTPS connection (1): lanyu1188.taobao.com
+2018-03-01 14:15:02 Starting new HTTP connection (1): lanyu1188.world.taobao.com
+2018-03-01 14:15:04 Starting new HTTPS connection (1): lanyu1188.world.taobao.com
+2018-03-01 14:15:07 [DATABASE]: 1665680827 is done.
+2018-03-01 14:15:07 Starting new HTTPS connection (1): xue668.taobao.com
+2018-03-01 14:15:09 Starting new HTTP connection (1): xue668.world.taobao.com
+2018-03-01 14:15:10 Starting new HTTPS connection (1): xue668.world.taobao.com
+2018-03-01 14:15:12 [DATABASE]: 1805035364 is done.
+2018-03-01 14:15:12 Starting new HTTPS connection (1): shop70534391.taobao.com
+2018-03-01 14:15:14 Starting new HTTP connection (1): shop70534391.world.taobao.com
+2018-03-01 14:15:15 Starting new HTTPS connection (1): shop70534391.world.taobao.com
+2018-03-01 14:15:16 Starting new HTTPS connection (1): store.taobao.com
+2018-03-01 14:15:18 Starting new HTTPS connection (1): eioyyyy.taobao.com
+2018-03-01 14:15:19 Starting new HTTP connection (1): eioyyyy.world.taobao.com
+2018-03-01 14:15:20 Starting new HTTPS connection (1): eioyyyy.world.taobao.com
+2018-03-01 14:15:22 [DATABASE]: 2035678983 is done.
+2018-03-01 14:15:23 Starting new HTTPS connection (1): shop143040676.taobao.com
+2018-03-01 14:15:24 Starting new HTTP connection (1): shop143040676.world.taobao.com
+2018-03-01 14:15:25 Starting new HTTPS connection (1): shop143040676.world.taobao.com
+2018-03-01 14:15:27 [DATABASE]: 5787490589 is done.
+2018-03-01 14:15:27 Starting new HTTPS connection (1): shop142910125.taobao.com
+2018-03-01 14:15:29 Starting new HTTP connection (1): shop142910125.world.taobao.com
+2018-03-01 14:15:30 Starting new HTTPS connection (1): shop142910125.world.taobao.com
+2018-03-01 14:15:32 [DATABASE]: 5782965352 is done.
+2018-03-01 14:15:32 Starting new HTTPS connection (1): ddkorea.taobao.com
+2018-03-01 14:15:34 Starting new HTTP connection (1): ddkorea.world.taobao.com
+2018-03-01 14:15:35 Starting new HTTPS connection (1): ddkorea.world.taobao.com
+2018-03-01 14:15:37 [DATABASE]: 2664297471 is done.
+2018-03-01 14:15:37 Starting new HTTPS connection (1): shop103424202.taobao.com
+2018-03-01 14:15:39 Starting new HTTP connection (1): shop103424202.world.taobao.com
+2018-03-01 14:15:40 Starting new HTTPS connection (1): shop103424202.world.taobao.com
+2018-03-01 14:15:42 [DATABASE]: 5662739993 is done.
+2018-03-01 14:15:42 Starting new HTTPS connection (1): choclove.taobao.com
+2018-03-01 14:15:44 Starting new HTTP connection (1): choclove.world.taobao.com
+2018-03-01 14:15:45 Starting new HTTPS connection (1): choclove.world.taobao.com
+2018-03-01 14:15:47 [DATABASE]: 2131317491 is done.
+2018-03-01 14:15:48 Starting new HTTPS connection (1): shop71320145.taobao.com
+2018-03-01 14:15:49 Starting new HTTP connection (1): shop71320145.world.taobao.com
+2018-03-01 14:15:50 Starting new HTTPS connection (1): shop71320145.world.taobao.com
+2018-03-01 14:15:52 Starting new HTTPS connection (1): store.taobao.com
+2018-03-01 14:15:53 Starting new HTTPS connection (1): 52amiao.taobao.com
+2018-03-01 14:15:55 Starting new HTTP connection (1): 52amiao.world.taobao.com
+2018-03-01 14:15:56 Starting new HTTPS connection (1): 52amiao.world.taobao.com
+2018-03-01 14:15:58 [DATABASE]: 3762548423 is done.
+2018-03-01 14:15:58 Starting new HTTPS connection (1): benmo2011.taobao.com
+2018-03-01 14:16:00 Starting new HTTP connection (1): benmo2011.world.taobao.com
+2018-03-01 14:16:01 Starting new HTTPS connection (1): benmo2011.world.taobao.com
+2018-03-01 14:16:03 [DATABASE]: 2164538251 is done.
+2018-03-01 14:16:03 Starting new HTTPS connection (1): spjh.taobao.com
+2018-03-01 14:16:05 Starting new HTTP connection (1): spjh.world.taobao.com
+2018-03-01 14:16:06 Starting new HTTPS connection (1): spjh.world.taobao.com
+2018-03-01 14:16:08 Starting new HTTPS connection (1): benjia.taobao.com
+2018-03-01 14:16:10 Starting new HTTP connection (1): benjia.world.taobao.com
+2018-03-01 14:16:11 Starting new HTTPS connection (1): benjia.world.taobao.com
+2018-03-01 14:16:13 [DATABASE]: 5064472023 is done.
+2018-03-01 14:16:13 Starting new HTTPS connection (1): aimo1985.taobao.com
+2018-03-01 14:16:15 Starting new HTTP connection (1): aimo1985.world.taobao.com
+2018-03-01 14:16:15 Starting new HTTPS connection (1): aimo1985.world.taobao.com
+2018-03-01 14:16:17 [DATABASE]: 1956192337 is done.
+2018-03-01 14:16:17 Starting new HTTPS connection (1): lixiaoba.taobao.com
+2018-03-01 14:16:19 Starting new HTTP connection (1): lixiaoba.world.taobao.com
+2018-03-01 14:16:19 Starting new HTTPS connection (1): lixiaoba.world.taobao.com
+2018-03-01 14:16:22 Starting new HTTPS connection (1): shop36552911.taobao.com
+2018-03-01 14:16:23 Starting new HTTP connection (1): shop36552911.world.taobao.com
+2018-03-01 14:16:24 Starting new HTTPS connection (1): shop36552911.world.taobao.com
+2018-03-01 14:24:11 Starting new HTTPS connection (1): tistis.taobao.com
+2018-03-01 14:24:13 Starting new HTTP connection (1): tistis.world.taobao.com
+2018-03-01 14:24:14 Starting new HTTPS connection (1): tistis.world.taobao.com
+2018-03-01 14:24:15 Starting new HTTPS connection (1): store.taobao.com
+2018-03-01 14:24:18 Starting new HTTPS connection (1): v2fashion8.taobao.com
+2018-03-01 14:24:20 Starting new HTTP connection (1): v2fashion8.world.taobao.com
+2018-03-01 14:24:20 Starting new HTTPS connection (1): v2fashion8.world.taobao.com
+2018-03-01 14:24:24 [DATABASE]: 1778254991 is done.
+2018-03-01 14:24:24 Starting new HTTPS connection (1): shop374696241.taobao.com
+2018-03-01 14:24:26 Starting new HTTP connection (1): shop374696241.world.taobao.com
+2018-03-01 14:24:27 Starting new HTTPS connection (1): shop374696241.world.taobao.com
+2018-03-01 14:24:29 [DATABASE]: 2033265462 is done.
+2018-03-01 14:24:29 Starting new HTTPS connection (1): shop155785957.taobao.com
+2018-03-01 14:24:31 Starting new HTTP connection (1): shop155785957.world.taobao.com
+2018-03-01 14:24:32 Starting new HTTPS connection (1): shop155785957.world.taobao.com
+2018-03-01 14:24:34 [DATABASE]: 5116164283 is done.
+2018-03-01 14:24:34 Starting new HTTPS connection (1): shop113497243.taobao.com
+2018-03-01 14:24:36 Starting new HTTP connection (1): shop113497243.world.taobao.com
+2018-03-01 14:24:37 Starting new HTTPS connection (1): shop113497243.world.taobao.com
+2018-03-01 14:24:39 [DATABASE]: 5745923428 is done.
+2018-03-01 14:24:39 Starting new HTTPS connection (1): shop588649336.taobao.com
+2018-03-01 14:24:41 Starting new HTTP connection (1): shop588649336.world.taobao.com
+2018-03-01 14:24:42 Starting new HTTPS connection (1): shop588649336.world.taobao.com
+2018-03-01 14:24:45 [DATABASE]: 1727987701 is done.
+2018-03-01 14:24:45 Starting new HTTPS connection (1): dreamsocks.taobao.com
+2018-03-01 14:24:47 Starting new HTTP connection (1): dreamsocks.world.taobao.com
+2018-03-01 14:24:48 Starting new HTTPS connection (1): dreamsocks.world.taobao.com
+2018-03-01 14:24:49 Starting new HTTPS connection (1): store.taobao.com
+2018-03-01 14:24:51 Starting new HTTPS connection (1): shop166099156.taobao.com
+2018-03-01 14:24:53 Starting new HTTP connection (1): shop166099156.world.taobao.com
+2018-03-01 14:24:54 Starting new HTTPS connection (1): shop166099156.world.taobao.com
+2018-03-01 14:24:55 [DATABASE]: 2864925463 is done.
+2018-03-01 14:24:55 Starting new HTTPS connection (1): fashionby-mirrormirror.taobao.com
+2018-03-01 14:24:58 Starting new HTTP connection (1): fashionby-mirrormirror.world.taobao.com
+2018-03-01 14:24:59 Starting new HTTPS connection (1): fashionby-mirrormirror.world.taobao.com
+2018-03-01 14:25:00 [DATABASE]: 5197782722 is done.
+2018-03-01 14:25:00 Starting new HTTPS connection (1): liaowenkc.taobao.com
+2018-03-01 14:25:02 Starting new HTTP connection (1): liaowenkc.world.taobao.com
+2018-03-01 14:25:04 Starting new HTTPS connection (1): liaowenkc.world.taobao.com
+2018-03-01 14:25:07 [DATABASE]: 3286678491 is done.
+2018-03-01 14:25:07 Starting new HTTPS connection (1): fanfanzhibei.taobao.com
+2018-03-01 14:25:10 Starting new HTTP connection (1): fanfanzhibei.world.taobao.com
+2018-03-01 14:25:10 Starting new HTTPS connection (1): fanfanzhibei.world.taobao.com
+2018-03-01 14:25:14 [DATABASE]: 5671651744 is done.
+2018-03-01 14:25:14 Starting new HTTPS connection (1): syladystudio.taobao.com
+2018-03-01 14:25:15 Starting new HTTP connection (1): syladystudio.world.taobao.com
+2018-03-01 14:25:16 Starting new HTTPS connection (1): syladystudio.world.taobao.com
+2018-03-01 14:25:21 [DATABASE]: 2010974047 is done.
+2018-03-01 14:25:21 Starting new HTTPS connection (1): shop35127076.taobao.com
+2018-03-01 14:25:23 Starting new HTTP connection (1): shop35127076.world.taobao.com
+2018-03-01 14:25:24 Starting new HTTPS connection (1): shop35127076.world.taobao.com
+2018-03-01 14:25:26 [DATABASE]: 3097691647 is done.
+2018-03-01 14:25:26 Starting new HTTPS connection (1): shop67849037.taobao.com
+2018-03-01 14:25:27 Starting new HTTP connection (1): shop67849037.world.taobao.com
+2018-03-01 14:25:28 Starting new HTTPS connection (1): shop67849037.world.taobao.com
+2018-03-01 14:25:31 [DATABASE]: 5362687131 is done.
+2018-03-01 14:25:31 Starting new HTTPS connection (1): lovesweethouse.taobao.com
+2018-03-01 14:25:33 Starting new HTTP connection (1): lovesweethouse.world.taobao.com
+2018-03-01 14:25:34 Starting new HTTPS connection (1): lovesweethouse.world.taobao.com
+2018-03-01 14:25:36 Starting new HTTPS connection (1): store.taobao.com
+2018-03-01 14:25:37 Starting new HTTPS connection (1): hjh918.taobao.com
+2018-03-01 14:25:40 Starting new HTTP connection (1): hjh918.world.taobao.com
+2018-03-01 14:25:41 Starting new HTTPS connection (1): hjh918.world.taobao.com
+2018-03-01 14:25:43 Starting new HTTPS connection (1): shop106183499.taobao.com
+2018-03-01 14:25:45 Starting new HTTP connection (1): shop106183499.world.taobao.com
+2018-03-01 14:25:46 Starting new HTTPS connection (1): shop106183499.world.taobao.com
+2018-03-01 14:25:48 Starting new HTTPS connection (1): dan2babe.taobao.com
+2018-03-01 14:25:50 Starting new HTTP connection (1): dan2babe.world.taobao.com
+2018-03-01 14:25:50 Starting new HTTPS connection (1): dan2babe.world.taobao.com
+2018-03-01 14:25:53 Starting new HTTPS connection (1): tudio.taobao.com
+2018-03-01 14:25:55 Starting new HTTP connection (1): tudio.world.taobao.com
+2018-03-01 14:25:56 Starting new HTTPS connection (1): tudio.world.taobao.com
+2018-03-01 14:25:58 Starting new HTTPS connection (1): liviastudio.taobao.com
+2018-03-01 14:26:00 Starting new HTTP connection (1): liviastudio.world.taobao.com
+2018-03-01 14:26:01 Starting new HTTPS connection (1): liviastudio.world.taobao.com
+2018-03-01 14:26:05 Starting new HTTPS connection (1): shop439397239.taobao.com
+2018-03-01 14:26:07 Starting new HTTP connection (1): shop439397239.world.taobao.com
+2018-03-01 14:26:08 Starting new HTTPS connection (1): shop439397239.world.taobao.com
+2018-03-01 14:26:10 Starting new HTTPS connection (1): item.taobao.com
+2018-03-01 14:26:13 Starting new HTTPS connection (1): evilbabyyyyy.taobao.com
+2018-03-01 14:26:14 Starting new HTTP connection (1): evilbabyyyyy.world.taobao.com
+2018-03-01 14:26:15 Starting new HTTPS connection (1): evilbabyyyyy.world.taobao.com
+2018-03-01 14:26:19 Starting new HTTPS connection (1): shop70534391.taobao.com
+2018-03-01 14:26:20 Starting new HTTP connection (1): shop70534391.world.taobao.com
+2018-03-01 14:26:21 Starting new HTTPS connection (1): shop70534391.world.taobao.com
+2018-03-01 14:26:26 Starting new HTTPS connection (1): shop71320145.taobao.com
+2018-03-01 14:26:28 Starting new HTTP connection (1): shop71320145.world.taobao.com
+2018-03-01 14:26:29 Starting new HTTPS connection (1): shop71320145.world.taobao.com
+2018-03-01 14:26:33 Starting new HTTPS connection (1): spjh.taobao.com
+2018-03-01 14:26:34 Starting new HTTP connection (1): spjh.world.taobao.com
+2018-03-01 14:26:35 Starting new HTTPS connection (1): spjh.world.taobao.com
+2018-03-01 14:26:38 Starting new HTTPS connection (1): lixiaoba.taobao.com
+2018-03-01 14:26:40 Starting new HTTP connection (1): lixiaoba.world.taobao.com
+2018-03-01 14:26:40 Starting new HTTPS connection (1): lixiaoba.world.taobao.com
+2018-03-01 14:26:43 Starting new HTTPS connection (1): shop36552911.taobao.com
+2018-03-01 14:26:45 Starting new HTTP connection (1): shop36552911.world.taobao.com
+2018-03-01 14:26:46 Starting new HTTPS connection (1): shop36552911.world.taobao.com
+2018-03-01 14:26:59 Starting new HTTPS connection (1): tistis.taobao.com
+2018-03-01 14:27:01 Starting new HTTP connection (1): tistis.world.taobao.com
+2018-03-01 14:27:02 Starting new HTTPS connection (1): tistis.world.taobao.com
+2018-03-01 14:27:04 Starting new HTTPS connection (1): store.taobao.com
+2018-03-01 14:27:05 Starting new HTTPS connection (1): dreamsocks.taobao.com
+2018-03-01 14:27:06 Starting new HTTP connection (1): dreamsocks.world.taobao.com
+2018-03-01 14:27:07 Starting new HTTPS connection (1): dreamsocks.world.taobao.com
+2018-03-01 14:27:09 Starting new HTTPS connection (1): lovesweethouse.taobao.com
+2018-03-01 14:27:11 Starting new HTTP connection (1): lovesweethouse.world.taobao.com
+2018-03-01 14:27:12 Starting new HTTPS connection (1): lovesweethouse.world.taobao.com
+2018-03-01 14:27:14 Starting new HTTPS connection (1): hjh918.taobao.com
+2018-03-01 14:27:16 Starting new HTTP connection (1): hjh918.world.taobao.com
+2018-03-01 14:27:17 Starting new HTTPS connection (1): hjh918.world.taobao.com
+2018-03-01 14:27:21 Starting new HTTPS connection (1): shop106183499.taobao.com
+2018-03-01 14:27:23 Starting new HTTP connection (1): shop106183499.world.taobao.com
+2018-03-01 14:27:24 Starting new HTTPS connection (1): shop106183499.world.taobao.com
+2018-03-01 14:27:27 Starting new HTTPS connection (1): dan2babe.taobao.com
+2018-03-01 14:27:28 Starting new HTTP connection (1): dan2babe.world.taobao.com
+2018-03-01 14:27:29 Starting new HTTPS connection (1): dan2babe.world.taobao.com
+2018-03-01 14:27:32 Starting new HTTPS connection (1): tudio.taobao.com
+2018-03-01 14:27:33 Starting new HTTP connection (1): tudio.world.taobao.com
+2018-03-01 14:27:34 Starting new HTTPS connection (1): tudio.world.taobao.com
+2018-03-01 14:27:40 Starting new HTTPS connection (1): liviastudio.taobao.com
+2018-03-01 14:27:42 Starting new HTTP connection (1): liviastudio.world.taobao.com
+2018-03-01 14:27:42 Starting new HTTPS connection (1): liviastudio.world.taobao.com
+2018-03-01 14:27:46 Starting new HTTPS connection (1): shop439397239.taobao.com
+2018-03-01 14:27:48 Starting new HTTP connection (1): shop439397239.world.taobao.com
+2018-03-01 14:27:50 Starting new HTTPS connection (1): shop439397239.world.taobao.com
+2018-03-01 14:27:53 Starting new HTTPS connection (1): item.taobao.com
+2018-03-01 14:27:55 Starting new HTTPS connection (1): evilbabyyyyy.taobao.com
+2018-03-01 14:27:57 Starting new HTTP connection (1): evilbabyyyyy.world.taobao.com
+2018-03-01 14:27:58 Starting new HTTPS connection (1): evilbabyyyyy.world.taobao.com
+2018-03-01 14:28:01 Starting new HTTPS connection (1): shop70534391.taobao.com
+2018-03-01 14:28:05 Starting new HTTP connection (1): shop70534391.world.taobao.com
+2018-03-01 14:28:06 Starting new HTTPS connection (1): shop70534391.world.taobao.com
+2018-03-01 14:28:09 Starting new HTTPS connection (1): shop71320145.taobao.com
+2018-03-01 14:28:11 Starting new HTTP connection (1): shop71320145.world.taobao.com
+2018-03-01 14:28:12 Starting new HTTPS connection (1): shop71320145.world.taobao.com
+2018-03-01 14:28:15 Starting new HTTPS connection (1): spjh.taobao.com
+2018-03-01 14:28:17 Starting new HTTP connection (1): spjh.world.taobao.com
+2018-03-01 14:28:18 Starting new HTTPS connection (1): spjh.world.taobao.com
+2018-03-01 14:28:20 Starting new HTTPS connection (1): lixiaoba.taobao.com
+2018-03-01 14:28:22 Starting new HTTP connection (1): lixiaoba.world.taobao.com
+2018-03-01 14:28:23 Starting new HTTPS connection (1): lixiaoba.world.taobao.com
+2018-03-01 14:28:26 Starting new HTTPS connection (1): shop36552911.taobao.com
+2018-03-01 14:28:28 Starting new HTTP connection (1): shop36552911.world.taobao.com
+2018-03-01 14:28:29 Starting new HTTPS connection (1): shop36552911.world.taobao.com
+2018-03-01 14:34:32 Starting new HTTPS connection (1): tistis.taobao.com
+2018-03-01 14:34:35 Starting new HTTP connection (1): tistis.world.taobao.com
+2018-03-01 14:34:35 Starting new HTTPS connection (1): tistis.world.taobao.com
+2018-03-01 14:34:37 Starting new HTTPS connection (1): store.taobao.com
+2018-03-01 14:34:39 Starting new HTTPS connection (1): dreamsocks.taobao.com
+2018-03-01 14:34:41 Starting new HTTP connection (1): dreamsocks.world.taobao.com
+2018-03-01 14:34:41 Starting new HTTPS connection (1): dreamsocks.world.taobao.com
+2018-03-01 14:34:44 Starting new HTTPS connection (1): lovesweethouse.taobao.com
+2018-03-01 14:34:46 Starting new HTTP connection (1): lovesweethouse.world.taobao.com
+2018-03-01 14:34:46 Starting new HTTPS connection (1): lovesweethouse.world.taobao.com
+2018-03-01 14:34:49 Starting new HTTPS connection (1): hjh918.taobao.com
+2018-03-01 14:34:50 Starting new HTTP connection (1): hjh918.world.taobao.com
+2018-03-01 14:34:51 Starting new HTTPS connection (1): hjh918.world.taobao.com
+2018-03-01 14:34:55 Starting new HTTPS connection (1): shop106183499.taobao.com
+2018-03-01 14:34:57 Starting new HTTP connection (1): shop106183499.world.taobao.com
+2018-03-01 14:34:58 Starting new HTTPS connection (1): shop106183499.world.taobao.com
+2018-03-01 14:35:00 Starting new HTTPS connection (1): dan2babe.taobao.com
+2018-03-01 14:35:02 Starting new HTTP connection (1): dan2babe.world.taobao.com
+2018-03-01 14:35:03 Starting new HTTPS connection (1): dan2babe.world.taobao.com
+2018-03-01 14:35:05 Starting new HTTPS connection (1): tudio.taobao.com
+2018-03-01 14:35:06 Starting new HTTP connection (1): tudio.world.taobao.com
+2018-03-01 14:35:06 Starting new HTTPS connection (1): tudio.world.taobao.com
+2018-03-01 14:35:11 Starting new HTTPS connection (1): liviastudio.taobao.com
+2018-03-01 14:35:13 Starting new HTTP connection (1): liviastudio.world.taobao.com
+2018-03-01 14:35:13 Starting new HTTPS connection (1): liviastudio.world.taobao.com
+2018-03-01 14:35:17 Starting new HTTPS connection (1): shop439397239.taobao.com
+2018-03-01 14:35:19 Starting new HTTP connection (1): shop439397239.world.taobao.com
+2018-03-01 14:35:21 Starting new HTTPS connection (1): shop439397239.world.taobao.com
+2018-03-01 14:35:23 Starting new HTTPS connection (1): item.taobao.com
+2018-03-01 14:35:25 Starting new HTTPS connection (1): evilbabyyyyy.taobao.com
+2018-03-01 14:35:27 Starting new HTTP connection (1): evilbabyyyyy.world.taobao.com
+2018-03-01 14:35:28 Starting new HTTPS connection (1): evilbabyyyyy.world.taobao.com
+2018-03-01 14:35:31 Starting new HTTPS connection (1): shop70534391.taobao.com
+2018-03-01 14:35:32 Starting new HTTP connection (1): shop70534391.world.taobao.com
+2018-03-01 14:35:33 Starting new HTTPS connection (1): shop70534391.world.taobao.com
+2018-03-01 14:35:37 Starting new HTTPS connection (1): shop71320145.taobao.com
+2018-03-01 14:35:38 Starting new HTTP connection (1): shop71320145.world.taobao.com
+2018-03-01 14:35:39 Starting new HTTPS connection (1): shop71320145.world.taobao.com
+2018-03-01 14:35:41 Starting new HTTPS connection (1): spjh.taobao.com
+2018-03-01 14:35:43 Starting new HTTP connection (1): spjh.world.taobao.com
+2018-03-01 14:35:44 Starting new HTTPS connection (1): spjh.world.taobao.com
+2018-03-01 14:35:48 Starting new HTTPS connection (1): lixiaoba.taobao.com
+2018-03-01 14:35:49 Starting new HTTP connection (1): lixiaoba.world.taobao.com
+2018-03-01 14:35:50 Starting new HTTPS connection (1): lixiaoba.world.taobao.com
+2018-03-01 14:35:52 Starting new HTTPS connection (1): shop36552911.taobao.com
+2018-03-01 14:35:54 Starting new HTTP connection (1): shop36552911.world.taobao.com
+2018-03-01 14:35:55 Starting new HTTPS connection (1): shop36552911.world.taobao.com

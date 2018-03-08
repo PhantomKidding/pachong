@@ -1,0 +1,223 @@
+2018-02-16 13:49:33 Starting new HTTP connection (1): s.weibo.com
+2018-02-16 13:49:34 Starting new HTTP connection (1): login.sina.com.cn
+2018-02-16 13:49:35 Resetting dropped connection: login.sina.com.cn
+2018-02-16 13:49:36 Starting new HTTP connection (1): weibo.com
+2018-02-16 13:49:37 Starting new HTTPS connection (1): weibo.com
+2018-02-16 13:49:38 [DATABASE]: Imported 1 inputs to crawl.
+2018-02-16 13:51:18 Resetting dropped connection: weibo.com
+2018-02-16 13:51:22 [DATABASE]: 1881158784 is done.
+2018-02-18 02:35:36 Starting new HTTP connection (1): s.weibo.com
+2018-02-18 02:35:36 Starting new HTTP connection (1): login.sina.com.cn
+2018-02-18 02:35:37 Resetting dropped connection: login.sina.com.cn
+2018-02-18 02:35:39 Starting new HTTP connection (1): weibo.com
+2018-02-18 02:35:39 Starting new HTTPS connection (1): weibo.com
+2018-02-18 02:36:33 Resetting dropped connection: weibo.com
+2018-02-18 02:37:07 [DATABASE]: Imported 1 inputs to crawl.
+2018-02-18 02:39:25 Resetting dropped connection: weibo.com
+2018-02-18 02:39:29 Resetting dropped connection: weibo.com
+2018-02-18 02:40:02 Resetting dropped connection: weibo.com
+2018-02-18 02:40:03 Resetting dropped connection: weibo.com
+2018-02-18 11:44:49 Starting new HTTP connection (1): s.weibo.com
+2018-02-18 11:44:50 Starting new HTTP connection (1): login.sina.com.cn
+2018-02-18 11:44:51 Resetting dropped connection: login.sina.com.cn
+2018-02-18 11:44:52 Starting new HTTP connection (1): weibo.com
+2018-02-18 11:44:53 Starting new HTTPS connection (1): weibo.com
+2018-02-18 11:44:54 [DATABASE]: Imported 1 inputs to crawl.
+2018-02-18 11:44:57 Resetting dropped connection: weibo.com
+2018-02-18 11:44:59 Resetting dropped connection: weibo.com
+2018-02-18 11:45:01 [DATABASE]: User 1881158784 page 1.
+2018-02-18 11:45:03 Resetting dropped connection: weibo.com
+2018-02-18 11:45:05 Resetting dropped connection: weibo.com
+2018-02-18 11:45:07 [DATABASE]: User 1881158784 page 2.
+2018-02-18 11:45:09 Resetting dropped connection: weibo.com
+2018-02-18 11:45:10 Resetting dropped connection: weibo.com
+2018-02-18 11:45:12 [DATABASE]: User 1881158784 page 3.
+2018-02-18 11:45:15 Resetting dropped connection: weibo.com
+2018-02-18 11:45:16 Resetting dropped connection: weibo.com
+2018-02-18 11:45:19 [DATABASE]: User 1881158784 page 4.
+2018-02-18 11:45:21 Resetting dropped connection: weibo.com
+2018-02-18 11:45:22 Resetting dropped connection: weibo.com
+2018-02-18 11:45:24 [DATABASE]: User 1881158784 page 5.
+2018-02-18 11:45:25 Resetting dropped connection: weibo.com
+2018-02-18 11:45:27 Resetting dropped connection: weibo.com
+2018-02-18 11:45:28 [DATABASE]: User 1881158784 page 6.
+2018-02-18 11:45:30 Resetting dropped connection: weibo.com
+2018-02-18 11:45:32 Resetting dropped connection: weibo.com
+2018-02-18 11:45:33 [DATABASE]: User 1881158784 page 7.
+2018-02-18 11:45:36 Resetting dropped connection: weibo.com
+2018-02-18 11:45:37 Resetting dropped connection: weibo.com
+2018-02-18 11:45:39 [DATABASE]: User 1881158784 page 8.
+2018-02-18 11:45:41 Resetting dropped connection: weibo.com
+2018-02-18 11:45:43 Resetting dropped connection: weibo.com
+2018-02-18 11:45:45 [DATABASE]: User 1881158784 page 9.
+2018-02-18 11:45:47 Resetting dropped connection: weibo.com
+2018-02-18 11:45:48 Resetting dropped connection: weibo.com
+2018-02-18 11:45:50 [DATABASE]: User 1881158784 page 10.
+2018-02-18 11:45:52 Resetting dropped connection: weibo.com
+2018-02-18 11:45:54 Resetting dropped connection: weibo.com
+2018-02-18 11:45:55 [DATABASE]: User 1881158784 page 11.
+2018-02-18 11:45:57 Resetting dropped connection: weibo.com
+2018-02-18 11:45:58 Resetting dropped connection: weibo.com
+2018-02-18 11:45:59 [DATABASE]: User 1881158784 page 12.
+2018-02-18 11:46:01 Resetting dropped connection: weibo.com
+2018-02-18 11:46:02 Resetting dropped connection: weibo.com
+2018-02-18 11:46:04 [DATABASE]: User 1881158784 page 13.
+2018-02-18 11:46:05 Resetting dropped connection: weibo.com
+2018-02-18 11:46:06 Resetting dropped connection: weibo.com
+2018-02-18 11:46:08 [DATABASE]: User 1881158784 page 14.
+2018-02-18 11:46:09 Resetting dropped connection: weibo.com
+2018-02-18 11:46:11 Resetting dropped connection: weibo.com
+2018-02-18 11:46:12 [DATABASE]: User 1881158784 page 15.
+2018-02-18 11:46:14 Resetting dropped connection: weibo.com
+2018-02-18 11:46:15 Resetting dropped connection: weibo.com
+2018-02-18 11:46:16 [DATABASE]: User 1881158784 page 16.
+2018-02-18 11:46:18 Resetting dropped connection: weibo.com
+2018-02-18 11:46:19 Resetting dropped connection: weibo.com
+2018-02-18 11:46:21 [DATABASE]: User 1881158784 page 17.
+2018-02-18 11:46:23 Resetting dropped connection: weibo.com
+2018-02-18 11:46:25 Resetting dropped connection: weibo.com
+2018-02-18 11:46:26 [DATABASE]: User 1881158784 page 18.
+2018-02-18 11:46:26 [DATABASE]: 1881158784 is done.
+2018-02-18 11:48:33 Starting new HTTP connection (1): s.weibo.com
+2018-02-18 11:48:34 Starting new HTTP connection (1): login.sina.com.cn
+2018-02-18 11:48:35 Resetting dropped connection: login.sina.com.cn
+2018-02-18 11:48:36 Starting new HTTP connection (1): weibo.com
+2018-02-18 11:48:41 Starting new HTTPS connection (1): weibo.com
+2018-02-18 11:48:42 [DATABASE]: Imported 1 inputs to crawl.
+2018-02-18 11:48:51 Resetting dropped connection: weibo.com
+2018-02-18 11:48:56 Resetting dropped connection: weibo.com
+2018-02-18 11:48:59 [DATABASE]: User 1866833821 page 1.
+2018-02-18 11:49:04 Resetting dropped connection: weibo.com
+2018-02-18 11:49:07 Resetting dropped connection: weibo.com
+2018-02-18 11:49:11 [DATABASE]: User 1866833821 page 2.
+2018-02-18 11:49:17 Resetting dropped connection: weibo.com
+2018-02-18 11:49:21 Resetting dropped connection: weibo.com
+2018-02-18 11:49:28 [DATABASE]: User 1866833821 page 3.
+2018-02-18 11:49:35 Resetting dropped connection: weibo.com
+2018-02-18 11:49:41 Resetting dropped connection: weibo.com
+2018-02-18 11:49:46 [DATABASE]: User 1866833821 page 4.
+2018-02-18 11:49:52 Resetting dropped connection: weibo.com
+2018-02-18 11:49:57 Resetting dropped connection: weibo.com
+2018-02-18 11:50:01 [DATABASE]: User 1866833821 page 5.
+2018-02-18 11:50:05 Resetting dropped connection: weibo.com
+2018-02-18 11:50:08 Resetting dropped connection: weibo.com
+2018-02-18 11:50:11 [DATABASE]: User 1866833821 page 6.
+2018-02-18 11:50:17 Resetting dropped connection: weibo.com
+2018-02-18 11:50:20 Resetting dropped connection: weibo.com
+2018-02-18 11:50:22 [DATABASE]: User 1866833821 page 7.
+2018-02-18 11:50:28 Resetting dropped connection: weibo.com
+2018-02-18 11:50:33 Resetting dropped connection: weibo.com
+2018-02-18 11:50:36 [DATABASE]: User 1866833821 page 8.
+2018-02-18 11:50:40 Resetting dropped connection: weibo.com
+2018-02-18 11:50:46 Resetting dropped connection: weibo.com
+2018-02-18 11:50:50 [DATABASE]: User 1866833821 page 9.
+2018-02-18 11:50:53 Resetting dropped connection: weibo.com
+2018-02-18 11:50:58 Resetting dropped connection: weibo.com
+2018-02-18 11:51:02 [DATABASE]: User 1866833821 page 10.
+2018-02-18 11:51:05 Resetting dropped connection: weibo.com
+2018-02-18 11:51:07 Resetting dropped connection: weibo.com
+2018-02-18 11:51:10 [DATABASE]: User 1866833821 page 11.
+2018-02-18 11:51:14 Resetting dropped connection: weibo.com
+2018-02-18 11:51:18 Resetting dropped connection: weibo.com
+2018-02-18 11:51:21 [DATABASE]: User 1866833821 page 12.
+2018-02-18 11:51:25 Resetting dropped connection: weibo.com
+2018-02-18 11:51:30 Resetting dropped connection: weibo.com
+2018-02-18 11:51:35 [DATABASE]: User 1866833821 page 13.
+2018-02-18 11:51:39 Resetting dropped connection: weibo.com
+2018-02-18 11:51:43 Resetting dropped connection: weibo.com
+2018-02-18 11:51:45 [DATABASE]: User 1866833821 page 14.
+2018-02-18 11:51:48 Resetting dropped connection: weibo.com
+2018-02-18 11:51:50 Resetting dropped connection: weibo.com
+2018-02-18 11:51:54 [DATABASE]: User 1866833821 page 15.
+2018-02-18 11:51:58 Resetting dropped connection: weibo.com
+2018-02-18 11:52:02 Resetting dropped connection: weibo.com
+2018-02-18 11:52:06 [DATABASE]: User 1866833821 page 16.
+2018-02-18 11:52:09 Resetting dropped connection: weibo.com
+2018-02-18 11:52:14 Resetting dropped connection: weibo.com
+2018-02-18 11:52:20 [DATABASE]: User 1866833821 page 17.
+2018-02-18 11:52:25 Resetting dropped connection: weibo.com
+2018-02-18 11:52:31 Resetting dropped connection: weibo.com
+2018-02-18 11:52:36 [DATABASE]: User 1866833821 page 18.
+2018-02-18 11:52:43 Resetting dropped connection: weibo.com
+2018-02-18 11:52:47 Resetting dropped connection: weibo.com
+2018-02-18 11:52:52 [DATABASE]: User 1866833821 page 19.
+2018-02-18 11:52:58 Resetting dropped connection: weibo.com
+2018-02-18 11:53:02 Resetting dropped connection: weibo.com
+2018-02-18 11:53:07 [DATABASE]: User 1866833821 page 20.
+2018-02-18 11:53:15 Resetting dropped connection: weibo.com
+2018-02-18 11:53:19 Resetting dropped connection: weibo.com
+2018-02-18 11:53:22 [DATABASE]: User 1866833821 page 21.
+2018-02-18 11:53:26 Resetting dropped connection: weibo.com
+2018-02-18 11:53:31 Resetting dropped connection: weibo.com
+2018-02-18 11:53:36 [DATABASE]: User 1866833821 page 22.
+2018-02-18 11:53:41 Resetting dropped connection: weibo.com
+2018-02-18 11:53:45 Resetting dropped connection: weibo.com
+2018-02-18 11:53:50 [DATABASE]: User 1866833821 page 23.
+2018-02-18 11:53:56 Resetting dropped connection: weibo.com
+2018-02-18 11:54:01 Resetting dropped connection: weibo.com
+2018-02-18 11:54:05 [DATABASE]: User 1866833821 page 24.
+2018-02-18 11:54:08 Resetting dropped connection: weibo.com
+2018-02-18 11:54:11 Resetting dropped connection: weibo.com
+2018-02-18 11:54:12 Resetting dropped connection: weibo.com
+2018-02-18 11:54:21 [DATABASE]: User 1866833821 page 25.
+2018-02-18 11:54:25 Resetting dropped connection: weibo.com
+2018-02-18 11:54:28 Resetting dropped connection: weibo.com
+2018-02-18 11:54:33 [DATABASE]: User 1866833821 page 26.
+2018-02-18 11:54:39 Resetting dropped connection: weibo.com
+2018-02-18 11:54:41 Resetting dropped connection: weibo.com
+2018-02-18 11:54:45 [DATABASE]: User 1866833821 page 27.
+2018-02-18 11:54:50 Resetting dropped connection: weibo.com
+2018-02-18 11:54:53 Resetting dropped connection: weibo.com
+2018-02-18 11:54:56 [DATABASE]: User 1866833821 page 28.
+2018-02-18 11:55:00 Resetting dropped connection: weibo.com
+2018-02-18 11:55:03 Resetting dropped connection: weibo.com
+2018-02-18 11:55:07 [DATABASE]: User 1866833821 page 29.
+2018-02-18 11:55:11 Resetting dropped connection: weibo.com
+2018-02-18 11:55:16 Resetting dropped connection: weibo.com
+2018-02-18 11:55:19 [DATABASE]: User 1866833821 page 30.
+2018-02-18 11:55:24 Resetting dropped connection: weibo.com
+2018-02-18 11:55:27 Resetting dropped connection: weibo.com
+2018-02-18 11:55:31 [DATABASE]: User 1866833821 page 31.
+2018-02-18 11:55:36 Resetting dropped connection: weibo.com
+2018-02-18 11:55:39 Resetting dropped connection: weibo.com
+2018-02-18 11:55:43 [DATABASE]: User 1866833821 page 32.
+2018-02-18 11:55:47 Resetting dropped connection: weibo.com
+2018-02-18 11:55:51 Resetting dropped connection: weibo.com
+2018-02-18 11:55:56 [DATABASE]: User 1866833821 page 33.
+2018-02-18 11:56:04 Resetting dropped connection: weibo.com
+2018-02-18 11:56:07 Resetting dropped connection: weibo.com
+2018-02-18 11:56:10 [DATABASE]: User 1866833821 page 34.
+2018-02-18 11:56:14 Resetting dropped connection: weibo.com
+2018-02-18 11:56:17 Resetting dropped connection: weibo.com
+2018-02-18 11:56:21 [DATABASE]: User 1866833821 page 35.
+2018-02-18 11:56:27 Resetting dropped connection: weibo.com
+2018-02-18 11:56:31 Resetting dropped connection: weibo.com
+2018-02-18 11:56:36 [DATABASE]: User 1866833821 page 36.
+2018-02-18 11:56:40 Resetting dropped connection: weibo.com
+2018-02-18 11:56:44 Resetting dropped connection: weibo.com
+2018-02-18 11:56:48 [DATABASE]: User 1866833821 page 37.
+2018-02-18 11:56:54 Resetting dropped connection: weibo.com
+2018-02-18 11:56:58 Resetting dropped connection: weibo.com
+2018-02-18 11:57:03 [DATABASE]: User 1866833821 page 38.
+2018-02-18 11:57:07 Resetting dropped connection: weibo.com
+2018-02-18 11:57:09 Resetting dropped connection: weibo.com
+2018-02-18 11:57:12 [DATABASE]: User 1866833821 page 39.
+2018-02-18 11:57:16 Resetting dropped connection: weibo.com
+2018-02-18 11:57:20 Resetting dropped connection: weibo.com
+2018-02-18 17:18:49 Starting new HTTP connection (1): s.weibo.com
+2018-02-18 17:18:50 Starting new HTTP connection (1): login.sina.com.cn
+2018-02-18 17:18:51 Resetting dropped connection: login.sina.com.cn
+2018-02-18 17:18:52 Starting new HTTP connection (1): weibo.com
+2018-02-18 17:18:53 Starting new HTTPS connection (1): weibo.com
+2018-02-18 17:18:54 [DATABASE]: Imported 1 inputs to crawl.
+2018-02-18 17:18:56 Resetting dropped connection: weibo.com
+2018-02-18 17:18:58 Resetting dropped connection: weibo.com
+2018-02-18 17:18:59 [DATABASE]: User 1866833821 page 39.
+2018-02-18 17:19:01 Resetting dropped connection: weibo.com
+2018-02-18 17:19:03 Resetting dropped connection: weibo.com
+2018-02-18 17:20:00 Starting new HTTP connection (1): s.weibo.com
+2018-02-18 17:20:01 Starting new HTTP connection (1): login.sina.com.cn
+2018-02-18 17:20:02 Resetting dropped connection: login.sina.com.cn
+2018-02-18 17:20:03 Starting new HTTP connection (1): weibo.com
+2018-02-18 17:20:04 Starting new HTTPS connection (1): weibo.com
+2018-02-18 17:20:08 [DATABASE]: Imported 1 inputs to crawl.

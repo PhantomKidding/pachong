@@ -1,0 +1,12 @@
+2018-02-16 02:34:56 Starting new HTTP connection (1): s.weibo.com
+2018-02-16 02:34:58 Starting new HTTP connection (1): login.sina.com.cn
+2018-02-16 02:34:58 Resetting dropped connection: login.sina.com.cn
+2018-02-16 02:35:00 Starting new HTTP connection (1): weibo.com
+2018-02-16 02:35:01 Starting new HTTPS connection (1): weibo.com
+2018-02-16 02:35:02 [DATABASE]: Imported 1 inputs to crawl.
+2018-02-16 02:42:43 Starting new HTTP connection (1): s.weibo.com
+2018-02-16 02:42:44 Starting new HTTP connection (1): login.sina.com.cn
+2018-02-16 02:42:45 Resetting dropped connection: login.sina.com.cn
+2018-02-16 02:42:47 Starting new HTTP connection (1): weibo.com
+2018-02-16 02:42:48 Starting new HTTPS connection (1): weibo.com
+2018-02-16 02:42:50 [DATABASE]: Imported 1 inputs to crawl.
