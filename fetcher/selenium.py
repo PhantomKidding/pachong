@@ -136,4 +136,4 @@ class Browser(Fetcher):
             chrome_options.add_argument("--incognito")
             if self.proxy:
                 chrome_options.add_argument('--proxy-server=%s' % self.proxy)
-            self._session = webdriver.Chrome('/Users/cchen/Programs/webdriver/chromedriver', chrome_options=chrome_options)
+            self._session = webdriver.Chrome('chromedriver', chrome_options=chrome_options)
