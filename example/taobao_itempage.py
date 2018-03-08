@@ -18,7 +18,8 @@ import sys
 args = sys.argv[1:]
 nfile = int(args[0])
 
-fetcher = Browser(proxy='localhost:3128')
+# fetcher = Browser(proxy='localhost:3128')
+fetcher = Browser()
 # fetcher = Browser(proxy='13.56.211.230:3128')
 crawler = Taobao('wanghong', 'taobao_items', fetcher=fetcher, Database=MongoDB).import_input('itemids{}.txt'.format(nfile))
     # .login()

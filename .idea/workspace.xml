@@ -25,11 +25,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="weibo_timeline.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="weibo_timeline.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/example/weibo_timeline.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
-              <caret line="19" column="19" lean-forward="false" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+              <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="20" />
               <folding>
                 <element signature="e#155#193#0" expanded="true" />
               </folding>
@@ -59,11 +59,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="taobao_itempage.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="taobao_itempage.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/example/taobao_itempage.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="121" lean-forward="false" selection-start-line="22" selection-start-column="121" selection-end-line="22" selection-end-column="121" />
+            <state relative-caret-position="315">
+              <caret line="21" column="18" lean-forward="false" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
               <folding>
                 <element signature="e#156#194#0" expanded="true" />
               </folding>
@@ -200,8 +200,8 @@
         <option value="$PROJECT_DIR$/pachong.py" />
         <option value="$PROJECT_DIR$/crawler/taobao/parsers.py" />
         <option value="$PROJECT_DIR$/example/example_mongodb.py" />
-        <option value="$PROJECT_DIR$/example/taobao_itempage.py" />
         <option value="$PROJECT_DIR$/example/weibo_timeline.py" />
+        <option value="$PROJECT_DIR$/example/taobao_itempage.py" />
       </list>
     </option>
   </component>
@@ -920,16 +920,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/example/taobao_itempage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="121" lean-forward="false" selection-start-line="22" selection-start-column="121" selection-end-line="22" selection-end-column="121" />
-          <folding>
-            <element signature="e#156#194#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pachong.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -977,9 +967,19 @@
     <entry file="file://$PROJECT_DIR$/example/weibo_timeline.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="19" column="19" lean-forward="false" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="20" />
           <folding>
             <element signature="e#155#193#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/taobao_itempage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="18" lean-forward="false" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+          <folding>
+            <element signature="e#156#194#0" expanded="true" />
           </folding>
         </state>
       </provider>
